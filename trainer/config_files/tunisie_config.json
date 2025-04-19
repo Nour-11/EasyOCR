@@ -1,0 +1,8 @@
+{
+    "train_data": "trainer/all_data/augmented_labels01.csv",
+    "image_folder": "trainer/all_data/img",
+    "model_save_folder": "trainer/saved_models/",
+    "character_list": "trainer/all_data/charlist.txt",
+    "epochs": 25,
+    "batch_size": 4
+}
